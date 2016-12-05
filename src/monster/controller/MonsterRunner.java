@@ -7,7 +7,7 @@ public class MonsterRunner
 	public static void main(String[] args)
 	{
 	
-	MonsterController firstAppController = new MonsterController();
-	firstAppController.start();
+	MonsterController monsterAppController = new MonsterController();
+	monsterAppController.start();
 }
 }
